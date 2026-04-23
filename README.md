@@ -23,7 +23,7 @@
       <article><h3>Michigan State University — BS Biochemistry</h3><time datetime="2020">2006–2010</time><ul><li>Diploma not completed</li></ul></article>
       <article><h3>International Academy — Biological Sciences</h3><time datetime="2020">2002–2006</time><ul><li>HS Diploma</li></ul></article>
     </section>
-    <section id="skills"><h2>Skills</h2><p>Skill1 · Skill2 · Skill3</p></section>
+    <section id="skills"><h2>Skills</h2><p>Team leadership & staff development · Scheduling & labor management · Inventory, ordering & vendor coordination · Beverage program development & menu design · Guest recovery & complaint resolution · POS & cash handling; basic sales/prospecting</p></section>
   </main>
   <footer>© 2026 Philipp Wormsbaecher — <a href="https://cosmiccloud.net">cosmiccloud.net</a></footer>
 </body>
