@@ -24,12 +24,12 @@
       <article><h3>International Academy — Biological Sciences</h3><time datetime="2020">2002–2006</time><ul><li>HS Diploma</li></ul></article>
     </section>
     <section id="skills"><h2>Skills</h2>
-       <article><ul><li> · Team leadership & staff development</li></ul></article> 
-       <article><ul><li> · Scheduling & labor managementt</li></ul></article> 
-       <article><ul><li> · Inventory, ordering & vendor coordinationt</li></ul></article> 
-       <article><ul><li> · Beverage program development & menu designt</li></ul></article> 
-       <article><ul><li> · Guest recovery & complaint resolutiont</li></ul></article> 
-       <article><ul><li> · POS & cash handling; basic sales/prospectingt</li></ul></article>
+       <article><ul><li>Team leadership & staff development</li></ul></article> 
+       <article><ul><li>Scheduling & labor managementt</li></ul></article> 
+       <article><ul><li>Inventory, ordering & vendor coordinationt</li></ul></article> 
+       <article><ul><li>Beverage program development & menu designt</li></ul></article> 
+       <article><ul><li>Guest recovery & complaint resolutiont</li></ul></article> 
+       <article><ul><li>POS & cash handling; basic sales/prospectingt</li></ul></article>
     </section>
   </main>
   <footer>© 2026 Philipp Wormsbaecher — <a href="https://cosmiccloud.net">cosmiccloud.net</a></footer>
