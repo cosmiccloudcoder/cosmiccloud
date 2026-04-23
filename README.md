@@ -13,7 +13,7 @@
     <p>Customer Service/Food Service Professional • <a href="mailto:phil@cosmiccloud.net">phil@cosmiccloud.net</a> • <a href="download-resume.pdf" download>Download PDF</a></p>
   </header>
   <main>
-    <section id="summary"><h2>Summary</h2><p>One-line summary.</p></section>
+    <section id="summary"><h2>Summary</h2><p>Customer Service / Food Service Manager with 10+ years of progressive hospitality experience—managing beverage programs, staff hiring & training, scheduling, inventory control, and guest recovery. Proven record improving service quality, building high-performing teams, and supporting sales-focused operations.</p></section>
     <section id="experience"><h2>Experience</h2>
         <article><h3>Carajillo — Manager</h3><time datetime="2020">2025–2026</time></article>
         <article><h3>The Emory — Bartender & Manager</h3><time datetime="2020">2018–2024</time></article>
